@@ -100,4 +100,3 @@ module.exports={root:"_root_232de",content:"_content_232de"};
 },{"react":"n8MK","react-router-dom":"UFqb","./screen":"iRz1","./theme/root.scss":"d0lC","classnames":"qb7c"}],"Focm":[function(require,module,exports) {
 "use strict";require("./theme.scss"),require("./theme/root.scss");var e=u(require("react")),r=require("react-dom/client"),t=u(require("./App.js"));function u(e){return e&&e.__esModule?e:{default:e}}var c=(0,r.createRoot)(document.getElementById("root"));c.render(e.default.createElement(t.default,null));
 },{"./theme.scss":"ed9G","./theme/root.scss":"d0lC","react":"n8MK","react-dom/client":"NdAl","./App.js":"lY9v"}]},{},["Focm"], null)
-//# sourceMappingURL=/src.d7e6a377.js.map
